@@ -50,4 +50,4 @@ Files in the Repository
 - Maximum Power Point Tracking (MPPT) principles.
 - 
 ## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it
